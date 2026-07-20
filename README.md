@@ -24,7 +24,7 @@ ChatViz transforms raw chat exports into meaningful visual insights, helping use
 ## Folder Structure
 
 ChatViz/
-
+```
 ├── app.py
 ├── src/
 │   ├── helper.py
@@ -33,7 +33,7 @@ ChatViz/
 ├── screenshots/
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ## 📦 Installation
